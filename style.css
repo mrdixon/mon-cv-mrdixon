@@ -1,0 +1,116 @@
+body{
+   border-width: 3px;
+   box-shadow: 2px 1px 2px 3px black;
+   background:
+   linear-gradient(skyblue,lightblue);
+   font-size: 60px;
+}
+h1{
+  font-family: Arial;
+  box-shadow: 1px 1px 1px
+  1px lightblue;
+  background:
+  linear-gradient(
+  blue, skyblue);
+  font-weight:bold;
+  text-decoration:underline;
+  text-align: center;
+  font-size: 35px;
+  color: brown;
+  padding-top: 20px;
+  margin-top: 20px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 3px;
+}
+h2{
+  font-family: arial;
+  padding-top: 15px;
+  padding-left: 2px;
+  padding-right: 45px;
+  margin-left: 10px;
+  font-weight:bolder;
+  text-align: center;
+  color: white;
+}
+.para1{
+  text-align: 15px;
+  font-family: arial;
+  box-shadow: 2px 2px 2px
+  2px brown;
+  background:
+  linear-gradient(
+  lightgreen,darkgreen);
+  padding-top: 1px;
+  padding-left: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 215px;
+  border-radius: 5px;
+}
+h3{
+  text-align: center;
+  font-family: arial;
+  font-size: 25px;
+  padding-top: 5px;
+  padding-left: 27px;
+  padding-right: 32px;
+  margin-top: 28px;
+}
+.para2{
+  text-align: 15px;
+  font-family: arial;
+  box-shadow: 2px 2px 2px
+  2px brown;
+  background:
+  linear-gradient(
+  lightgreen,darkgreen);
+  padding-top: 1px;
+  padding-left: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 215px;
+  border-radius: 5px;
+}
+h4{
+  text-align: center;
+  font-size: 23px;
+  font-family: arial;
+  padding-top: 5px;
+  padding-right: 10px;
+  padding-left: 2px;
+  margin-top: 4px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+.para3{
+  text-align: 15px;
+  font-family: arial;
+  box-shadow: 2px 2px 2px
+  2px brown;
+  background:
+  linear-gradient(
+  darkred,red);
+  padding-top: 1px;
+  padding-left: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 215px;
+  border-radius: 5px;
+}
+section{
+  box-shadow: 3px 3px 2px
+  1px black;
+  border-width: medium;
+  border-radius: 20px;
+  text-align: left;
+  font-size: 17px;
+  color: white;
+  background:
+  linear-gradient(
+  grey,forestgreen);
+  padding-left: 44px;
+  margin-left: 57px;
+  height: 225px;
+  display: inline-block;
+}
